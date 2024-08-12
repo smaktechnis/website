@@ -2132,14 +2132,14 @@ ul.lik li a:hover {
 }
 
 .copyright p {
-	color: #023023;
+	color: #fff;
 	font-size: 18px;
 	line-height: 22px;
 	text-align: center;
 }
 
 .copyright a:hover {
-	color: #fff;
+	color: #097AA8;
 }
 
 /** end footer section **/
