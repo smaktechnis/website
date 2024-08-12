@@ -2139,8 +2139,12 @@ ul.lik li a:hover {
 	text-align: center;
 }
 
-.copyright a:hover {
+.copyright a {
 	color: #fff;
+}
+
+.copyright a:hover {
+	color: red;
 }
 
 /** end footer section **/
