@@ -1756,7 +1756,7 @@ margin-top: 20px;
 .title h2 {
 	font-size: 50px;
 	line-height: 55px;
-	color:#097AA8;
+	color:#fff;
 	font-weight: 500;
 	text-transform: uppercase;
     margin-bottom: 27px;
@@ -2129,7 +2129,6 @@ ul.lik li a:hover {
 	background-color: #097AA8;
 	padding: 20px 0px;
 	margin-top: 70px;
-	color: #fff;
 }
 
 .copyright p {
@@ -2155,11 +2154,12 @@ ul.lik li a:hover {
 	font-weight: bold;
 	font-size: 40px !important;
 	text-transform: uppercase;
+	color:#fff;
 }
 
 
 .brand_color {
-     background-color: #ffc221;
+     background-color: #097AA8;
 }
 .brand_color .titlepage {
      margin-top: 70px;
@@ -2185,7 +2185,7 @@ text-align: center;
 } 
 
 .form-control {
-     border: #ffc221 solid 2px;
+     border: #097AA8 solid 2px;
      border-radius: inherit;
      margin-bottom: 30px;
      padding: 13px 20px;
@@ -2193,12 +2193,12 @@ text-align: center;
 }
 .form-control:focus {
      box-shadow: inherit;
-     border: #ffc221 solid 2px !important;
+     border: #097AA8 solid 2px !important;
 }
 
 .textarea {
      font-family: poppins;
-     border: #ffc221 solid 2px;
+     border: #097AA8 solid 2px;
      margin-bottom: 30px;
      padding: 13px 20px;
      width: 100%;
@@ -2218,7 +2218,7 @@ text-align: center;
 }
 
 .send:hover {
-     background: #ffc221;
+     background: #097AA8;
 }
 
 
