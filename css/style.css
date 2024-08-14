@@ -1937,7 +1937,7 @@ margin-top: 20px;
 
  .product-bg .product-bg-white .product-box  h3 {
  	color: #003e62;
- 	font-weight: bold;
+ 	font-weight: 600;
  	font-size: 17px;
  	line-height: 20px;
  	padding-top: 15px;
@@ -1945,7 +1945,7 @@ margin-top: 20px;
 
  .product-bg .product-bg-white .product-box span {
  	color: #003e62;
- 	font-weight: bold;
+ 	font-weight: 600;
  	font-family: "Arial, sans-serif";
  	font-size: 22px;
  	line-height: 22px;
@@ -1968,7 +1968,7 @@ margin-top: 20px;
 .Clients_bg_white .title h3 {
 	color: #097AA8;
 	font-size: 30px;
-	font-weight: 900;
+	font-weight: 700;
 	line-height: 50px;
 	padding-top: 0px;
 }
