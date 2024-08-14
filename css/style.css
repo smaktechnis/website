@@ -1968,8 +1968,10 @@ margin-top: 20px;
 .Clients_bg_white .title h3 {
 	color: #030000;
 	font-size: 50px;
+	font-weight:500;
 	line-height: 50px;
 	padding-top: 40px;
+	text-transform: uppercase;
 }
 
 .banner_Client {
