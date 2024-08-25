@@ -462,6 +462,10 @@ nav.main-menu {
 	margin-left: 0;
 }
 
+.menu-area-main li a {
+	color: #000;
+}
+
 .menu-area-main li:hover a,
 .menu-area-main li:focus a {
 	color: #097AA8;
@@ -2276,7 +2280,7 @@ text-align: center;
 
 
 
-.about {padding-top: 90px;}
+.about {padding-top: 20px;}
 .about .about_box figure {margin: 0;}
 .about .about_box figure img {width: 100%;}
 .about .about_box h3 {color: #000; font-weight: bold; font-size: 30px; line-height: 35px;}
