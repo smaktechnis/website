@@ -1918,12 +1918,12 @@ margin-top: 20px;
 }
 
 .product .title button {
-border-radius: 0px;
-background-color: red;
-height: 40px;
-width: 100px;
-font-size: 35px;
-color: #8A1204;
+	border-radius: 0px;
+	background-color: red;
+	height: 70px;
+	width: 200px;
+	font-size: 25px;
+	color: #8A1204;
 }
 
 .product-bg {
